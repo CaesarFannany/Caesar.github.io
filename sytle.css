@@ -1,0 +1,53 @@
+body,head{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bagian_atas{
+    background-color: black;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.bagian_kiri{
+    line-height: 100px;
+    flex-wrap: nowrap;
+    float: left;
+}
+
+.bagian_tengah{
+    text-align: center;
+    line-height: 100px;
+    flex-wrap: nowrap;
+    margin-right: 40px;
+}
+
+.bagian_tengah a{
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+
+
+.bagian_menu{
+    height: 500px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+}
+
+.bagian_menu h1, p{
+    color: white;
+    text-align: center;
+}
+
